@@ -24,3 +24,4 @@ splitFactor: The split factor, if any, applied to Google's stock on the given da
 
 
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction                      
+Solution:        https://github.com/Aryan-Singh248/Stock-Predictor/blob/main/Stock%20Market%20Predictor.ipynb
